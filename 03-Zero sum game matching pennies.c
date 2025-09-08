@@ -16,7 +16,7 @@ int main(){
     printf("Enter H or T:\n");
     for(int i=0;i<n;i++){
 
-        //taking input
+        //logic for taking input
         scanf(" %c %c",&a,&b);
 
 
@@ -42,3 +42,4 @@ int main(){
     return 0;
 
 }
+
