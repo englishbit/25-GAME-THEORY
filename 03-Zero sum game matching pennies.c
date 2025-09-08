@@ -28,12 +28,9 @@ int main(){
 
         }
 
-
-
         //logic for output
         if(a==b)printf("The first player wins at round %d\n",i+1);
         else printf("The second player wins at round %d\n",i+1);
-
 
 
     }
@@ -42,3 +39,4 @@ int main(){
     return 0;
 
 }
+
