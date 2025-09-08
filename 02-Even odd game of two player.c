@@ -2,6 +2,7 @@
 int main(){
 
     int n;
+    //logic for taking input
     scanf("%d",&n);
     if(n%2==1){
         printf("The first player wins\n");
@@ -11,4 +12,5 @@ int main(){
 
 
     return 0;
+
 }
